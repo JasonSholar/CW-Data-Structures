@@ -3,8 +3,11 @@
 public class Main {
     public static void main(String[] args) {
 
-        StackExample stack = new StackExample();
-        stack.run();
+        Animals animal = new Animals();
+        animal.run();
+
+        // StackExample stack = new StackExample();
+        // stack.run();
 
         // QueueExample q = new QueueExample();
         // q.run();

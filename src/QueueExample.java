@@ -15,6 +15,7 @@ public class QueueExample {
         System.out.println("Elements of queue-" + q);
 
         int removeHead = q.remove();
+        
 
         
     }
